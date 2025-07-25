@@ -10,3 +10,35 @@ A professional-grade Power BI dashboard built to analyze Amazon's sales data. Th
 7. **Data Cleaning in Power Query**: Pre-processed and transformed raw Excel data with Power Query to ensure a clean and reliable data model.
 8. **Filter-Driven Insights**: Built slicers and drill-through pages to enable decision-makers to slice data by region, category, time, or rating.
 9. **Executive-Focused Design**: Employed a clean, intuitive UI design that follows Power BI best practices for usability, performance, and accessibility.
+
+# Tech Stack
+- **PowerBI Desktop**
+- **Power Query Editor** - for data shaping and transformation.
+- **DAX (Data Analysis Expressions)** - for custom KPIs and time intelligence.
+- **Data Modeling** - relational modeling, calculated columns.
+- **Business Intelligence** - dashboard storytelling, UX principles.
+
+ # How to run the code
+ 1. **Open Power BI Desktop** - Make sure you have Power BI Desktop installed on your system.
+ 2. **Load the .pbix File** - Open Amazon PowerBI.pbix in Power BI Desktop.
+ 3. **Review the Data Model** - Check the relationships, tables, and DAX measures for transparency.
+ 4. **Explore the Dashboard** - Use filters and slicers to explore sales trends and insights interactively.
+
+# Use Case Scenarios
+- Management Reporting.
+- Product Category Performance Analysis.
+- Marketing ROI Optimizatio.
+- Customer Sentiment & Satisfaction Review.
+- Sales Forecasting & Strategy Alignment.
+
+# Preview
+<img width="1827" height="1003" alt="Screenshot 2025-07-24 171627" src="https://github.com/user-attachments/assets/197ca71e-48fe-4853-b7dd-c3e91a0abf65" />
+
+
+# License
+This project is open-source and available under the [MIT License](LICENSE).
+
+# Contact
+Feel free to connect:
+- Linkedin: https://www.linkedin.com/in/aaqib2212/
+- Mail: aaqibbelim0@gmail.com
